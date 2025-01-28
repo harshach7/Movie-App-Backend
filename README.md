@@ -38,9 +38,9 @@
 - **Request Body**:
   ```json
   {
-    "name": "Sandesh Bhujbal",
-    "username": "sandesh",
-    "email": "bhujbalsandesh52@gmail.com",
+    "name": "harsha chavan",
+    "username": "harsha",
+    "email": "harsha@gmail.com",
     "password": "12345"
   }
   ```
@@ -58,7 +58,7 @@
 - **Request Body**:
   ```json
   {
-    "email": "bhujbalsandesh52@gmail.com",
+    "email": "harsha@gmail.com",
     "password": "12345"
   }
   ```
